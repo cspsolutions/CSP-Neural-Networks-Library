@@ -3,7 +3,7 @@ using System.Collections;
 using CSPSolutions.CI.NeuralNetworks.Common;
 
 //------------------------------------------------------------------------------
-// Copyright (c) 2006, Abla Corporation, All Rights Reserved.
+// Copyright (c) 2006, CSP SOLUTIONS Corporation, All Rights Reserved.
 //
 // This software is the confidential and proprietary information of Abla 
 // Corporation.
